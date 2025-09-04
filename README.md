@@ -66,7 +66,7 @@ Trabalho-Final-BD/
 
 ---
 
-## 🚀 Instalação do projeto
+##  Instalação do projeto
 
 ### Windows (PowerShell)
 ```powershell
@@ -191,7 +191,7 @@ python src/gerar_csv_grande.py
 
 ---
 
-## ⚠️ Informações/Dicas importantes
+##  Informações/Dicas importantes
 
 - **CSV muito grande?** → use o Spark (ele divide em partições automaticamente)  
 - **Erro `ModuleNotFoundError: mysql`?** → instale `mysql-connector-python` (já no `requirements.txt`)  
